@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: cloudpulse
-          image: ghcr.io/aryank-droid/cloudpulse:latest
+          image: ghcr.io/aryank-droid/cloudpulse:sha-3de8ef8
           ports:
             - containerPort: 8000
 
